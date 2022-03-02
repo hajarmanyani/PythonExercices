@@ -99,3 +99,5 @@ Si on termine par un \, Python sait que la ligne de code n'est pas finie.
 Les IDE disposent de fonctionnalités supplémentaires comme des mécanismes d'auto-complétion du code ou encore de systèmes de détection des erreurs de syntaxe dans un code et de proposition de modification.
 
 Pour ma part, dans ce cours, j'utiliserai l'IDE Visual Studio Code de Microsoft mais vous pouvez utiliser Sublime Text, Atom, ou autre. Notez par ailleurs qu'il existe certains éditeurs spécialement conçus pour écrire du code Python dont le célèbre PyCharm notamment.
+
+![Visual Studio Code with Python from visualstudio.com](https://code.visualstudio.com/assets/docs/python/tutorial/social.png)
