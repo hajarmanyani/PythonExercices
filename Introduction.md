@@ -93,7 +93,7 @@ Lorsqu'on a une longue ligne de code, on peut la couper en deux avec le caractè
 ... décrite sur deux lignes
 ```
 
-Si on termine par un \, Python sait que la ligne de code n'est pas finie.
+Si on termine par un \\ , Python sait que la ligne de code n'est pas finie.
 
 ### Passage par IDE
 Les IDE disposent de fonctionnalités supplémentaires comme des mécanismes d'auto-complétion du code ou encore de systèmes de détection des erreurs de syntaxe dans un code et de proposition de modification.
