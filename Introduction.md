@@ -101,3 +101,5 @@ Les IDE disposent de fonctionnalités supplémentaires comme des mécanismes d'a
 Pour ma part, dans ce cours, j'utiliserai l'IDE Visual Studio Code de Microsoft mais vous pouvez utiliser Sublime Text, Atom, ou autre. Notez par ailleurs qu'il existe certains éditeurs spécialement conçus pour écrire du code Python dont le célèbre PyCharm notamment.
 
 ![Visual Studio Code with Python from visualstudio.com](https://code.visualstudio.com/assets/docs/python/tutorial/social.png)
+
+Vous trouverez dans [cette vidéo](https://www.youtube.com/watch?v=q8yyjhxSPdI&ab_channel=SemicolonDotDev) et [cet article](https://code.visualstudio.com/docs/python/python-tutorial) comment exécuter un code Python dans Visual Studio Code.
